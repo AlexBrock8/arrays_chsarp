@@ -1,0 +1,11 @@
+D:\Unity\game\Skillbox\Csharp\HW4\MatrixtoNumber\bin\Debug\netcoreapp3.1\MatrixtoNumber.exe
+D:\Unity\game\Skillbox\Csharp\HW4\MatrixtoNumber\bin\Debug\netcoreapp3.1\MatrixtoNumber.deps.json
+D:\Unity\game\Skillbox\Csharp\HW4\MatrixtoNumber\bin\Debug\netcoreapp3.1\MatrixtoNumber.runtimeconfig.json
+D:\Unity\game\Skillbox\Csharp\HW4\MatrixtoNumber\bin\Debug\netcoreapp3.1\MatrixtoNumber.runtimeconfig.dev.json
+D:\Unity\game\Skillbox\Csharp\HW4\MatrixtoNumber\bin\Debug\netcoreapp3.1\MatrixtoNumber.dll
+D:\Unity\game\Skillbox\Csharp\HW4\MatrixtoNumber\bin\Debug\netcoreapp3.1\MatrixtoNumber.pdb
+D:\Unity\game\Skillbox\Csharp\HW4\MatrixtoNumber\obj\Debug\netcoreapp3.1\MatrixtoNumber.csprojAssemblyReference.cache
+D:\Unity\game\Skillbox\Csharp\HW4\MatrixtoNumber\obj\Debug\netcoreapp3.1\MatrixtoNumber.AssemblyInfoInputs.cache
+D:\Unity\game\Skillbox\Csharp\HW4\MatrixtoNumber\obj\Debug\netcoreapp3.1\MatrixtoNumber.AssemblyInfo.cs
+D:\Unity\game\Skillbox\Csharp\HW4\MatrixtoNumber\obj\Debug\netcoreapp3.1\MatrixtoNumber.dll
+D:\Unity\game\Skillbox\Csharp\HW4\MatrixtoNumber\obj\Debug\netcoreapp3.1\MatrixtoNumber.pdb

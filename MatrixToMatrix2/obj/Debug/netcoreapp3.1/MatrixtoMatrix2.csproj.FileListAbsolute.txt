@@ -1,0 +1,10 @@
+D:\Unity\game\Skillbox\Csharp\HW4\MatrixPlusMinus\bin\Debug\netcoreapp3.1\MatrixtoMatrix2.exe
+D:\Unity\game\Skillbox\Csharp\HW4\MatrixPlusMinus\bin\Debug\netcoreapp3.1\MatrixtoMatrix2.deps.json
+D:\Unity\game\Skillbox\Csharp\HW4\MatrixPlusMinus\bin\Debug\netcoreapp3.1\MatrixtoMatrix2.runtimeconfig.json
+D:\Unity\game\Skillbox\Csharp\HW4\MatrixPlusMinus\bin\Debug\netcoreapp3.1\MatrixtoMatrix2.runtimeconfig.dev.json
+D:\Unity\game\Skillbox\Csharp\HW4\MatrixPlusMinus\bin\Debug\netcoreapp3.1\MatrixtoMatrix2.dll
+D:\Unity\game\Skillbox\Csharp\HW4\MatrixPlusMinus\bin\Debug\netcoreapp3.1\MatrixtoMatrix2.pdb
+D:\Unity\game\Skillbox\Csharp\HW4\MatrixPlusMinus\obj\Debug\netcoreapp3.1\MatrixtoMatrix2.AssemblyInfoInputs.cache
+D:\Unity\game\Skillbox\Csharp\HW4\MatrixPlusMinus\obj\Debug\netcoreapp3.1\MatrixtoMatrix2.AssemblyInfo.cs
+D:\Unity\game\Skillbox\Csharp\HW4\MatrixPlusMinus\obj\Debug\netcoreapp3.1\MatrixtoMatrix2.dll
+D:\Unity\game\Skillbox\Csharp\HW4\MatrixPlusMinus\obj\Debug\netcoreapp3.1\MatrixtoMatrix2.pdb

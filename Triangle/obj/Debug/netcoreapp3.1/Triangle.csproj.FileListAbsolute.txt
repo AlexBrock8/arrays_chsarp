@@ -1,0 +1,11 @@
+D:\Unity\game\Skillbox\Csharp\HW4\Triangle\bin\Debug\netcoreapp3.1\Triangle.exe
+D:\Unity\game\Skillbox\Csharp\HW4\Triangle\bin\Debug\netcoreapp3.1\Triangle.deps.json
+D:\Unity\game\Skillbox\Csharp\HW4\Triangle\bin\Debug\netcoreapp3.1\Triangle.runtimeconfig.json
+D:\Unity\game\Skillbox\Csharp\HW4\Triangle\bin\Debug\netcoreapp3.1\Triangle.runtimeconfig.dev.json
+D:\Unity\game\Skillbox\Csharp\HW4\Triangle\bin\Debug\netcoreapp3.1\Triangle.dll
+D:\Unity\game\Skillbox\Csharp\HW4\Triangle\bin\Debug\netcoreapp3.1\Triangle.pdb
+D:\Unity\game\Skillbox\Csharp\HW4\Triangle\obj\Debug\netcoreapp3.1\Triangle.csprojAssemblyReference.cache
+D:\Unity\game\Skillbox\Csharp\HW4\Triangle\obj\Debug\netcoreapp3.1\Triangle.AssemblyInfoInputs.cache
+D:\Unity\game\Skillbox\Csharp\HW4\Triangle\obj\Debug\netcoreapp3.1\Triangle.AssemblyInfo.cs
+D:\Unity\game\Skillbox\Csharp\HW4\Triangle\obj\Debug\netcoreapp3.1\Triangle.dll
+D:\Unity\game\Skillbox\Csharp\HW4\Triangle\obj\Debug\netcoreapp3.1\Triangle.pdb

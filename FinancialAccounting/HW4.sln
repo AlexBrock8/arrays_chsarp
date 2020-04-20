@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FinancialAccounting", "HW4\FinancialAccounting.csproj", "{B98340B1-0AC6-4BBA-B493-94402CDD958B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Triangle", "..\Triangle\Triangle.csproj", "{8F1FFB1D-37B1-40E4-A905-B296C27DE589}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MatrixtoNumber", "..\MatrixtoNumber\MatrixtoNumber.csproj", "{68E255EB-0897-49CF-8370-C780D26115FF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MatrixtoMatrix2", "..\MatrixPlusMinus\MatrixtoMatrix2.csproj", "{7804D3D0-98BB-4810-92E8-D4BFB75D442E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Matrix+-", "Matrix+-\Matrix+-.csproj", "{64FCB0B6-F4FF-450B-A2EE-78D0FDA93CB4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MatrixtoMatrix", "..\MatrixtoMatrix\MatrixtoMatrix.csproj", "{90B935F2-57C8-4571-B87F-9286ACC6D888}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B98340B1-0AC6-4BBA-B493-94402CDD958B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B98340B1-0AC6-4BBA-B493-94402CDD958B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B98340B1-0AC6-4BBA-B493-94402CDD958B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B98340B1-0AC6-4BBA-B493-94402CDD958B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F1FFB1D-37B1-40E4-A905-B296C27DE589}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F1FFB1D-37B1-40E4-A905-B296C27DE589}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F1FFB1D-37B1-40E4-A905-B296C27DE589}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F1FFB1D-37B1-40E4-A905-B296C27DE589}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68E255EB-0897-49CF-8370-C780D26115FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68E255EB-0897-49CF-8370-C780D26115FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68E255EB-0897-49CF-8370-C780D26115FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68E255EB-0897-49CF-8370-C780D26115FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7804D3D0-98BB-4810-92E8-D4BFB75D442E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7804D3D0-98BB-4810-92E8-D4BFB75D442E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7804D3D0-98BB-4810-92E8-D4BFB75D442E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7804D3D0-98BB-4810-92E8-D4BFB75D442E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64FCB0B6-F4FF-450B-A2EE-78D0FDA93CB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64FCB0B6-F4FF-450B-A2EE-78D0FDA93CB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64FCB0B6-F4FF-450B-A2EE-78D0FDA93CB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64FCB0B6-F4FF-450B-A2EE-78D0FDA93CB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90B935F2-57C8-4571-B87F-9286ACC6D888}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90B935F2-57C8-4571-B87F-9286ACC6D888}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90B935F2-57C8-4571-B87F-9286ACC6D888}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90B935F2-57C8-4571-B87F-9286ACC6D888}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A808B65-0D6F-4382-A2D4-9D5812B20385}
+	EndGlobalSection
+EndGlobal

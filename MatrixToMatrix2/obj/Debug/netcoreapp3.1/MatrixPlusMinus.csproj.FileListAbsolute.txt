@@ -1,0 +1,11 @@
+D:\Unity\game\Skillbox\Csharp\HW4\MatrixPlusMinus\bin\Debug\netcoreapp3.1\MatrixPlusMinus.exe
+D:\Unity\game\Skillbox\Csharp\HW4\MatrixPlusMinus\bin\Debug\netcoreapp3.1\MatrixPlusMinus.deps.json
+D:\Unity\game\Skillbox\Csharp\HW4\MatrixPlusMinus\bin\Debug\netcoreapp3.1\MatrixPlusMinus.runtimeconfig.json
+D:\Unity\game\Skillbox\Csharp\HW4\MatrixPlusMinus\bin\Debug\netcoreapp3.1\MatrixPlusMinus.runtimeconfig.dev.json
+D:\Unity\game\Skillbox\Csharp\HW4\MatrixPlusMinus\bin\Debug\netcoreapp3.1\MatrixPlusMinus.dll
+D:\Unity\game\Skillbox\Csharp\HW4\MatrixPlusMinus\bin\Debug\netcoreapp3.1\MatrixPlusMinus.pdb
+D:\Unity\game\Skillbox\Csharp\HW4\MatrixPlusMinus\obj\Debug\netcoreapp3.1\MatrixPlusMinus.AssemblyInfoInputs.cache
+D:\Unity\game\Skillbox\Csharp\HW4\MatrixPlusMinus\obj\Debug\netcoreapp3.1\MatrixPlusMinus.AssemblyInfo.cs
+D:\Unity\game\Skillbox\Csharp\HW4\MatrixPlusMinus\obj\Debug\netcoreapp3.1\MatrixPlusMinus.dll
+D:\Unity\game\Skillbox\Csharp\HW4\MatrixPlusMinus\obj\Debug\netcoreapp3.1\MatrixPlusMinus.pdb
+D:\Unity\game\Skillbox\Csharp\HW4\MatrixPlusMinus\obj\Debug\netcoreapp3.1\MatrixPlusMinus.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+D:\Unity\game\Skillbox\Csharp\HW4\FinancialAccounting\HW4\obj\Debug\netcoreapp3.1\FinancialAccounting.csprojAssemblyReference.cache
+D:\Unity\game\Skillbox\Csharp\HW4\FinancialAccounting\HW4\obj\Debug\netcoreapp3.1\FinancialAccounting.AssemblyInfoInputs.cache
+D:\Unity\game\Skillbox\Csharp\HW4\FinancialAccounting\HW4\obj\Debug\netcoreapp3.1\FinancialAccounting.AssemblyInfo.cs
+D:\Unity\game\Skillbox\Csharp\HW4\FinancialAccounting\HW4\bin\Debug\netcoreapp3.1\FinancialAccounting.exe
+D:\Unity\game\Skillbox\Csharp\HW4\FinancialAccounting\HW4\bin\Debug\netcoreapp3.1\FinancialAccounting.deps.json
+D:\Unity\game\Skillbox\Csharp\HW4\FinancialAccounting\HW4\bin\Debug\netcoreapp3.1\FinancialAccounting.runtimeconfig.json
+D:\Unity\game\Skillbox\Csharp\HW4\FinancialAccounting\HW4\bin\Debug\netcoreapp3.1\FinancialAccounting.runtimeconfig.dev.json
+D:\Unity\game\Skillbox\Csharp\HW4\FinancialAccounting\HW4\bin\Debug\netcoreapp3.1\FinancialAccounting.dll
+D:\Unity\game\Skillbox\Csharp\HW4\FinancialAccounting\HW4\bin\Debug\netcoreapp3.1\FinancialAccounting.pdb
+D:\Unity\game\Skillbox\Csharp\HW4\FinancialAccounting\HW4\obj\Debug\netcoreapp3.1\FinancialAccounting.dll
+D:\Unity\game\Skillbox\Csharp\HW4\FinancialAccounting\HW4\obj\Debug\netcoreapp3.1\FinancialAccounting.pdb
